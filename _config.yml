@@ -131,22 +131,22 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+       url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+       url: "https://www.facebook.com/profile.php?id=100009227695108"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+       url: "https://github.com/JunHyung02"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
+       url:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
-      # url:
+       url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+       url: "https://www.instagram.com/junhyung._.2002/"
 
 
 # Reading Files
